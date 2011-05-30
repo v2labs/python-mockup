@@ -1,0 +1,32 @@
+
+
+ * What is python-mockup
+   python-mockup is a mockup creating tool. 
+   here mockup is not the unit testing mockup .. but the gui & work
+   flow mockup.
+
+ * Isn't paper and pen good enough !
+   If you are sitting face to face with other stake holders , nothing
+   will beat a white board or a stack of index cards. However, with
+   distributed teams, a virtual white board is needed. There is no 
+   free or entrapped white board software which can host apps .. (
+   there .. another cool project idea (-:  ) .. so PM is starting it's
+   life as an indepdendent app.
+
+ * so what kind of features are planned
+   * SCM friendly text file storage
+   * Capturing of discussions along with part of screen
+   * internal & external flow. 
+   * making a slide set 
+   * making a test plan 
+   
+   
+ * What exactly will software look like
+   * Phase - 1 
+     * A text(xml?) file to describe the flow
+     * A command line tool read this and generate pdf slides
+
+   * Phase - 2 
+     * Either A interactive GUI to manage the XML
+     * OR     A html5 interface 
+
